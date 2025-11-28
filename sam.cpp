@@ -5,6 +5,6 @@ fun(){
   print("The value of x is:"+x)
 }
 int main(){
-  fun();
+fun();
   return 0;
 }
